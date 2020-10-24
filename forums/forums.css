@@ -1,0 +1,39 @@
+.copyright{
+    position: relative;
+    bottom:40px;
+    background-color: black;
+    height: 26px;
+    width:100%; 
+    
+}
+.container{
+    display: flex!important;
+    flex-wrap: wrap!important;
+}
+.card{
+  
+    display: flex!important;
+    flex-wrap: wrap!important;
+}
+
+
+#cont{
+    position: relative;
+    top:-20px;
+    width: 100%!important;
+background-image: url("download.png");
+
+width: 100%;
+
+}
+.card-img-top{
+    height:250px!important; 
+}
+.card{
+
+    margin:auto!important; 
+}
+.card-body{
+    background-color: black!important;
+    color:white;
+}
